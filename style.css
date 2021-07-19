@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Righteous&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(51, 54, 54);
+    font-family: 'Righteous', cursive;
+}
+
+h1 {
+    color: rgb(194, 7, 7);
+    margin-bottom: 20px;
+}
+.keys {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    
+}
+.key {
+    width: 80px;
+    height: 80px;
+    border: 2px solid rgb(255, 252, 252);
+    color: rgb(231, 9, 9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 50%;
+}
+.key.active {
+    border: 2px solid rgb(59, 109, 248);
+    color: rgb(51, 7, 247);
+}
+
+.composer {
+    width: 260px;
+    margin-top: 20px;
+}
+.composer #input {
+    width: 100%;
+    outline: none;
+    font-size: 17px;
+    padding: 10px 15px;
+}
+.composer button {
+    width: 100%;
+    height: 40px;
+    background: none;
+    border: 2px solid #FFF;
+    color: #FFF;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.composer button:hover {
+    background-color: rgba(250, 67, 67, 0.952);
+}
+
+footer {
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 13px;
+}
