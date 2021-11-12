@@ -9,6 +9,6 @@
 
  <br>
  
- <div align-center>
+ 
    ![bateria-mobile](https://user-images.githubusercontent.com/62466598/141497243-4c622e56-8a61-4553-8b24-a50c5d9b81d5.png)
- </div>
+
