@@ -7,6 +7,5 @@
  ![Bateria-desktop](https://user-images.githubusercontent.com/62466598/141495908-60cf58ff-9063-48db-acc8-93a553041f8c.png)
 
 
-
-                        ![bateria-mobile](https://user-images.githubusercontent.com/62466598/141497243-4c622e56-8a61-4553-8b24-a50c5d9b81d5.png) 
+ ![bateria-mobile](https://user-images.githubusercontent.com/62466598/141506976-6ab432ca-7d39-4fa2-a2af-baf836185adf.png)
 
